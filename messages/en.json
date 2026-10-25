@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "title": "Obiljon Rakhimov — Full-Stack Developer",
+    "description": "Portfolio of Obiljon Rakhimov, a full-stack developer focused on TypeScript, Rust, AI-driven software and microservices."
+  },
+  "navigation": {
+    "items": {
+      "home": "Home",
+      "about": "About",
+      "skills": "Skills",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "menu": "Toggle navigation",
+    "label": "Main navigation"
+  },
+  "hero": {
+    "heroTag": "Full-Stack Developer · Urganch, Uzbekistan",
+    "hero": "I build fast, type-safe web products.",
+    "intro": "React, Next.js, NestJS and Rust (Actix-web) — from secure APIs to polished interfaces, with a focus on AI-driven software and microservices.",
+    "view": "View projects",
+    "downloadResume": "Download resume",
+    "contactMe": "Get in touch"
+  },
+  "about": {
+    "about": "About",
+    "bio": "I’m a detail-oriented full-stack developer who enjoys working across both the front end and the back end. I build scalable web applications with React.js, Next.js, Node.js, NestJS and Rust, and I want to contribute to innovative projects in AI-driven software and microservices architecture.",
+    "experienceItems": [
+      {
+        "title": "Trainee, AI Software Team",
+        "organization": "AI Softwares Uzbekistan · 2024",
+        "description": "Built JWT-secured REST APIs in Rust (Actix-web), type-safe forms with Zod and Chart.js dashboards for AI-powered apps."
+      },
+      {
+        "title": "Intern",
+        "organization": "Appx Group · 2023–2024",
+        "description": "Web development with JavaScript, HTML and CSS, plus code reviews and a Git/GitHub workflow."
+      }
+    ],
+    "educationHeading": "Education",
+    "experienceHeading": "Experience",
+    "educationItems": [
+      {
+        "title": "B.Sc. Telecommunications",
+        "organization": "Urganch State University (URDU branch, formerly TATU)",
+        "description": "Five-year part-time programme, currently enrolled. Studies began at TATU in 2020."
+      },
+      {
+        "title": "Backend Development Course",
+        "organization": "IT Park Uzbekistan, Urganch · 2022",
+        "description": "Intensive training in Node.js, databases and REST API design."
+      },
+      {
+        "title": "Frontend Mid-Level Course",
+        "organization": "Al-Xorazmiy Vorislari, Urganch · 2025",
+        "description": "React.js, Next.js, Shadcn UI, Zod, TanStack Router and custom hooks."
+      }
+    ]
+  },
+  "skills": {
+    "skills": "Skills",
+    "groups": [
+      "Languages",
+      "Frontend",
+      "Backend",
+      "Databases",
+      "DevOps & tools",
+      "Other"
+    ],
+    "items": [
+      [
+        "JavaScript",
+        "TypeScript",
+        "Rust",
+        "HTML",
+        "CSS",
+        "Sass",
+        "Pug"
+      ],
+      [
+        "React.js",
+        "Next.js",
+        "Shadcn UI",
+        "Tailwind CSS",
+        "Zod",
+        "TanStack Router",
+        "Custom Hooks",
+        "Vite",
+        "Chart.js",
+        "Gulp",
+        "Webpack"
+      ],
+      [
+        "Node.js",
+        "Express.js",
+        "NestJS",
+        "Actix-web",
+        "JWT",
+        "CRUD APIs",
+        "RBAC"
+      ],
+      [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL",
+        "Redis"
+      ],
+      [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Nginx",
+        "Linux (Ubuntu)"
+      ],
+      [
+        "RESTful APIs",
+        "NATS",
+        "Microservices",
+        "Telegram Bot API"
+      ]
+    ]
+  },
+  "projects": {
+    "projects": "Projects",
+    "tags": [
+      [
+        "NestJS",
+        "PostgreSQL",
+        "Redis",
+        "JWT"
+      ],
+      [
+        "NestJS",
+        "Next.js",
+        "Shadcn UI"
+      ],
+      [
+        "Node.js",
+        "React.js",
+        "NATS",
+        "Docker"
+      ],
+      [
+        "Rust",
+        "Actix-web",
+        "PostgreSQL"
+      ],
+      [
+        "React.js",
+        "TypeScript"
+      ],
+      [
+        "NestJS",
+        "Telegram Bot API"
+      ],
+      [
+        "React.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      [
+        "Sass",
+        "Pug",
+        "Vite",
+        "Gulp"
+      ]
+    ],
+    "items": [
+      {
+        "title": "E-Commerce Backend API",
+        "description": "NestJS with PostgreSQL, MySQL, MongoDB and Redis. Four-role RBAC secured by JWT and role guards."
+      },
+      {
+        "title": "Personal Blog",
+        "description": "NestJS API and Next.js frontend with SSR, dynamic routing, Shadcn UI and Tailwind CSS."
+      },
+      {
+        "title": "Chat on NATS Microservices",
+        "description": "Real-time messaging with Node.js, React.js and NATS, containerised with Docker and cached in Redis."
+      },
+      {
+        "title": "Rust REST API",
+        "description": "Actix-web service with JWT authentication, full CRUD and PostgreSQL integration."
+      },
+      {
+        "title": "Tic-Tac-Toe Web Game",
+        "description": "Online game built with React.js and TypeScript: game logic, win detection and turn management in a responsive UI."
+      },
+      {
+        "title": "Image Telegram Bot",
+        "description": "NestJS bot that handles image commands through the Telegram Bot API, with a modular architecture."
+      },
+      {
+        "title": "Expense Tracker",
+        "description": "Full-stack app with a React.js frontend, Express.js backend, JWT authentication and MongoDB."
+      },
+      {
+        "title": "Portfolio Website",
+        "description": "Responsive site built with HTML, CSS, JavaScript, Sass and Pug, bundled with Vite, Webpack and Gulp."
+      }
+    ],
+    "more": "More on GitHub"
+  },
+  "contact": {
+    "together": "Let’s build something together.",
+    "location": "Urganch, Uzbekistan",
+    "send": "Send message",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "sent": "Your email draft is ready.",
+    "available": "Available for opportunities",
+    "emailSubject": "Portfolio contact: {name}"
+  },
+  "footer": {
+    "footer": "© 2026 Obiljon Rakhimov"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System",
+    "toggle": "Theme: {mode}. Activate to change the theme."
+  },
+  "language": {
+    "ariaLanguage": "Choose language"
+  },
+  "common": {
+    "brandAria": "Obiljon Rakhimov home",
+    "portrait": "Portrait of Obiljon Rakhimov",
+    "codeFile": "obiljon.ts",
+    "codeName": "Obiljon Rakhimov",
+    "codeRole": "Full-Stack Developer",
+    "codeLocation": "Urganch, Uzbekistan",
+    "codeFocus": "AI-driven apps, microservices",
+    "codeStack": [
+      "TypeScript",
+      "Rust",
+      "Node.js"
+    ],
+    "sections": {
+      "profile": "01 / PROFILE",
+      "toolkit": "02 / TOOLKIT",
+      "work": "03 / SELECTED WORK",
+      "hello": "04 / SAY HELLO"
+    },
+    "emailLabel": "email",
+    "linkedinLabel": "linkedin",
+    "githubLabel": "github",
+    "locationLabel": "location",
+    "backToTop": "Back to top",
+    "ticker": [
+      "TypeScript",
+      "Rust",
+      "React.js",
+      "Next.js",
+      "NestJS",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "NATS",
+      "TypeScript",
+      "Rust",
+      "React.js",
+      "Next.js",
+      "NestJS",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "NATS"
+    ],
+    "close": "Close",
+    "brand": "~/obiljon"
+  }
+}

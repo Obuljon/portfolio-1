@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "title": "Obiljon Rakhimov — Full-Stack dasturchi",
+    "description": "TypeScript, Rust, sun’iy intellekt va mikroservislarga ixtisoslashgan full-stack dasturchi Obiljon Rakhimov portfeli."
+  },
+  "navigation": {
+    "items": {
+      "home": "Bosh sahifa",
+      "about": "Men haqimda",
+      "skills": "Koʻnikmalar",
+      "projects": "Loyihalar",
+      "contact": "Aloqa"
+    },
+    "menu": "Navigatsiyani ochish",
+    "label": "Asosiy navigatsiya"
+  },
+  "hero": {
+    "heroTag": "Full-Stack dasturchi · Urganch, Oʻzbekiston",
+    "hero": "Tez va tip-xavfsiz veb-mahsulotlar yarataman.",
+    "intro": "React, Next.js, NestJS va Rust (Actix-web): xavfsiz API’lardan puxta interfeyslargacha — sun’iy intellekt va mikroservislarga e’tibor bilan.",
+    "view": "Loyihalarni koʻrish",
+    "downloadResume": "Rezyumeni yuklab olish",
+    "contactMe": "Bogʻlanish"
+  },
+  "about": {
+    "about": "Men haqimda",
+    "bio": "Men tafsilotlarga e’tiborli full-stack dasturchiman: ham frontend, ham backend bilan ishlayman. React.js, Next.js, Node.js, NestJS va Rust yordamida kengayuvchan veb-ilovalar yarataman va sun’iy intellekt hamda mikroservis arxitekturasi sohasidagi innovatsion loyihalarda qatnashmoqchiman.",
+    "experienceItems": [
+      {
+        "title": "Stajyor, AI Software jamoasi",
+        "organization": "AI Softwares Uzbekistan · 2024",
+        "description": "Rust (Actix-web)da JWT bilan himoyalangan REST API’lar, Zod bilan tip-xavfsiz formalar va AI ilovalar uchun Chart.js dashboardlari."
+      },
+      {
+        "title": "Stajyor",
+        "organization": "Appx Group · 2023–2024",
+        "description": "JavaScript, HTML va CSS bilan veb-ishlab chiqish, kod-review va Git/GitHub bilan ishlash."
+      }
+    ],
+    "educationHeading": "Ta’lim",
+    "experienceHeading": "Tajriba",
+    "educationItems": [
+      {
+        "title": "Bakalavr, telekommunikatsiya",
+        "organization": "Urganch davlat universiteti (URDU filiali, avvalgi TATU)",
+        "description": "Besh yillik sirtqi dastur, hozir oʻqiyapman. Oʻqishni 2020-yilda TATUda boshlaganman."
+      },
+      {
+        "title": "Backend dasturlash kursi",
+        "organization": "IT Park Uzbekistan, Urganch · 2022",
+        "description": "Node.js, ma’lumotlar bazalari va REST API loyihalash boʻyicha intensiv oʻqish."
+      },
+      {
+        "title": "Frontend Mid-Level kursi",
+        "organization": "Al-Xorazmiy Vorislari, Urganch · 2025",
+        "description": "React.js, Next.js, Shadcn UI, Zod, TanStack Router va maxsus hook’lar."
+      }
+    ]
+  },
+  "skills": {
+    "skills": "Koʻnikmalar",
+    "groups": [
+      "Tillar",
+      "Frontend",
+      "Backend",
+      "Ma’lumotlar bazalari",
+      "DevOps va vositalar",
+      "Boshqa"
+    ],
+    "items": [
+      [
+        "JavaScript",
+        "TypeScript",
+        "Rust",
+        "HTML",
+        "CSS",
+        "Sass",
+        "Pug"
+      ],
+      [
+        "React.js",
+        "Next.js",
+        "Shadcn UI",
+        "Tailwind CSS",
+        "Zod",
+        "TanStack Router",
+        "Custom Hooks",
+        "Vite",
+        "Chart.js",
+        "Gulp",
+        "Webpack"
+      ],
+      [
+        "Node.js",
+        "Express.js",
+        "NestJS",
+        "Actix-web",
+        "JWT",
+        "CRUD APIs",
+        "RBAC"
+      ],
+      [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL",
+        "Redis"
+      ],
+      [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Nginx",
+        "Linux (Ubuntu)"
+      ],
+      [
+        "RESTful APIs",
+        "NATS",
+        "Microservices",
+        "Telegram Bot API"
+      ]
+    ]
+  },
+  "projects": {
+    "projects": "Loyihalar",
+    "tags": [
+      [
+        "NestJS",
+        "PostgreSQL",
+        "Redis",
+        "JWT"
+      ],
+      [
+        "NestJS",
+        "Next.js",
+        "Shadcn UI"
+      ],
+      [
+        "Node.js",
+        "React.js",
+        "NATS",
+        "Docker"
+      ],
+      [
+        "Rust",
+        "Actix-web",
+        "PostgreSQL"
+      ],
+      [
+        "React.js",
+        "TypeScript"
+      ],
+      [
+        "NestJS",
+        "Telegram Bot API"
+      ],
+      [
+        "React.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      [
+        "Sass",
+        "Pug",
+        "Vite",
+        "Gulp"
+      ]
+    ],
+    "items": [
+      {
+        "title": "E-Commerce Backend API",
+        "description": "NestJS, PostgreSQL, MySQL, MongoDB va Redis. JWT va rol guard’lari bilan himoyalangan toʻrt rolli RBAC."
+      },
+      {
+        "title": "Shaxsiy blog",
+        "description": "NestJS API va Next.js frontend: SSR, dinamik routing, Shadcn UI va Tailwind CSS."
+      },
+      {
+        "title": "NATS mikroservisli chat",
+        "description": "Node.js, React.js va NATS bilan real vaqt xabarlari, Docker va Redis keshi."
+      },
+      {
+        "title": "Rust REST API",
+        "description": "Actix-web xizmati: JWT autentifikatsiya, toʻliq CRUD va PostgreSQL integratsiyasi."
+      },
+      {
+        "title": "Onlayn Tic-Tac-Toe oʻyini",
+        "description": "React.js va TypeScript’da yozilgan onlayn oʻyin: oʻyin mantigʻi, gʻolibni aniqlash va navbat boshqaruvi moslashuvchan interfeysda."
+      },
+      {
+        "title": "Rasmlar uchun Telegram bot",
+        "description": "Telegram Bot API orqali rasm buyruqlarini qayta ishlaydigan NestJS bot, modulli arxitektura bilan."
+      },
+      {
+        "title": "Xarajatlar hisobi",
+        "description": "Full-stack ilova: React.js frontend, Express.js backend, JWT autentifikatsiya va MongoDB."
+      },
+      {
+        "title": "Portfolio veb-sayt",
+        "description": "HTML, CSS, JavaScript, Sass va Pug bilan yozilgan moslashuvchan sayt, Vite, Webpack va Gulp bilan yigʻilgan."
+      }
+    ],
+    "more": "GitHub’da koʻproq"
+  },
+  "contact": {
+    "together": "Keling, birgalikda biror narsa yaratamiz.",
+    "location": "Urganch, Oʻzbekiston",
+    "send": "Xabar yuborish",
+    "name": "Ism",
+    "email": "Email",
+    "message": "Xabar",
+    "sent": "Email xati tayyor.",
+    "available": "Yangi imkoniyatlarga ochiq",
+    "emailSubject": "Portfolio orqali murojaat: {name}"
+  },
+  "footer": {
+    "footer": "© 2026 Obiljon Rakhimov"
+  },
+  "theme": {
+    "light": "Yorugʻ",
+    "dark": "Qorongʻi",
+    "system": "Tizim",
+    "toggle": "Mavzu: {mode}. Oʻzgartirish uchun bosing."
+  },
+  "language": {
+    "ariaLanguage": "Tilni tanlash"
+  },
+  "common": {
+    "brandAria": "Obiljon Rakhimov bosh sahifasi",
+    "portrait": "Muallif portreti",
+    "codeFile": "obiljon.ts",
+    "codeName": "Obiljon Rakhimov",
+    "codeRole": "Full-Stack dasturchi",
+    "codeLocation": "Urganch, Oʻzbekiston",
+    "codeFocus": "AI ilovalar, mikroservislar",
+    "codeStack": [
+      "TypeScript",
+      "Rust",
+      "Node.js"
+    ],
+    "sections": {
+      "profile": "01 / MEN HAQIMDA",
+      "toolkit": "02 / VOSITALAR",
+      "work": "03 / TANLANGAN LOYIHALAR",
+      "hello": "04 / ALOQA"
+    },
+    "emailLabel": "email",
+    "linkedinLabel": "linkedin",
+    "githubLabel": "github",
+    "locationLabel": "manzil",
+    "backToTop": "Yuqoriga",
+    "ticker": [
+      "TypeScript",
+      "Rust",
+      "React.js",
+      "Next.js",
+      "NestJS",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "NATS",
+      "TypeScript",
+      "Rust",
+      "React.js",
+      "Next.js",
+      "NestJS",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "NATS"
+    ],
+    "close": "Yopish",
+    "brand": "~/obiljon"
+  }
+}

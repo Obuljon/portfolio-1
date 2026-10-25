@@ -1,0 +1,274 @@
+{
+  "metadata": {
+    "title": "Obiljon Rakhimov — Full-Stack разработчик",
+    "description": "Портфолио Obiljon Rakhimov, full-stack разработчика. TypeScript, Rust, ИИ-решения и микросервисы."
+  },
+  "navigation": {
+    "items": {
+      "home": "Главная",
+      "about": "Обо мне",
+      "skills": "Навыки",
+      "projects": "Проекты",
+      "contact": "Контакты"
+    },
+    "menu": "Открыть навигацию",
+    "label": "Основная навигация"
+  },
+  "hero": {
+    "heroTag": "Full-Stack разработчик · Ургенч, Узбекистан",
+    "hero": "Создаю быстрые и типобезопасные веб-продукты.",
+    "intro": "React, Next.js, NestJS и Rust (Actix-web): от защищённых API до продуманных интерфейсов, с фокусом на ИИ-решения и микросервисы.",
+    "view": "Смотреть проекты",
+    "downloadResume": "Скачать резюме",
+    "contactMe": "Связаться"
+  },
+  "about": {
+    "about": "Обо мне",
+    "bio": "Я full-stack разработчик, внимательный к деталям: работаю и с фронтендом, и с бэкендом. Создаю масштабируемые веб-приложения на React.js, Next.js, Node.js, NestJS и Rust и хочу участвовать в инновационных проектах в области ИИ-решений и микросервисной архитектуры.",
+    "experienceItems": [
+      {
+        "title": "Стажёр, команда AI Software",
+        "organization": "AI Softwares Uzbekistan · 2024",
+        "description": "Защищённые JWT REST API на Rust (Actix-web), типобезопасные формы на Zod и дашборды на Chart.js для ИИ-приложений."
+      },
+      {
+        "title": "Стажёр",
+        "organization": "Appx Group · 2023–2024",
+        "description": "Веб-разработка на JavaScript, HTML и CSS, код-ревью и работа с Git/GitHub."
+      }
+    ],
+    "educationHeading": "Образование",
+    "experienceHeading": "Опыт",
+    "educationItems": [
+      {
+        "title": "Бакалавр, телекоммуникации",
+        "organization": "Ургенчский государственный университет (филиал URDU, ранее TATU)",
+        "description": "Пятилетняя заочная программа, обучаюсь сейчас. Учёбу начал в TATU в 2020 году."
+      },
+      {
+        "title": "Курс backend-разработки",
+        "organization": "IT Park Uzbekistan, Ургенч · 2022",
+        "description": "Интенсивное обучение: Node.js, базы данных и проектирование REST API."
+      },
+      {
+        "title": "Курс Frontend Mid-Level",
+        "organization": "Al-Xorazmiy Vorislari, Ургенч · 2025",
+        "description": "React.js, Next.js, Shadcn UI, Zod, TanStack Router и собственные хуки."
+      }
+    ]
+  },
+  "skills": {
+    "skills": "Навыки",
+    "groups": [
+      "Языки",
+      "Frontend",
+      "Backend",
+      "Базы данных",
+      "DevOps и инструменты",
+      "Прочее"
+    ],
+    "items": [
+      [
+        "JavaScript",
+        "TypeScript",
+        "Rust",
+        "HTML",
+        "CSS",
+        "Sass",
+        "Pug"
+      ],
+      [
+        "React.js",
+        "Next.js",
+        "Shadcn UI",
+        "Tailwind CSS",
+        "Zod",
+        "TanStack Router",
+        "Custom Hooks",
+        "Vite",
+        "Chart.js",
+        "Gulp",
+        "Webpack"
+      ],
+      [
+        "Node.js",
+        "Express.js",
+        "NestJS",
+        "Actix-web",
+        "JWT",
+        "CRUD APIs",
+        "RBAC"
+      ],
+      [
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL",
+        "Redis"
+      ],
+      [
+        "Git",
+        "GitHub",
+        "Docker",
+        "Nginx",
+        "Linux (Ubuntu)"
+      ],
+      [
+        "RESTful APIs",
+        "NATS",
+        "Microservices",
+        "Telegram Bot API"
+      ]
+    ]
+  },
+  "projects": {
+    "projects": "Проекты",
+    "tags": [
+      [
+        "NestJS",
+        "PostgreSQL",
+        "Redis",
+        "JWT"
+      ],
+      [
+        "NestJS",
+        "Next.js",
+        "Shadcn UI"
+      ],
+      [
+        "Node.js",
+        "React.js",
+        "NATS",
+        "Docker"
+      ],
+      [
+        "Rust",
+        "Actix-web",
+        "PostgreSQL"
+      ],
+      [
+        "React.js",
+        "TypeScript"
+      ],
+      [
+        "NestJS",
+        "Telegram Bot API"
+      ],
+      [
+        "React.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      [
+        "Sass",
+        "Pug",
+        "Vite",
+        "Gulp"
+      ]
+    ],
+    "items": [
+      {
+        "title": "E-Commerce Backend API",
+        "description": "NestJS с PostgreSQL, MySQL, MongoDB и Redis. RBAC на четыре роли с JWT и ролевыми guard’ами."
+      },
+      {
+        "title": "Личный блог",
+        "description": "NestJS API и фронтенд на Next.js с SSR, динамической маршрутизацией, Shadcn UI и Tailwind CSS."
+      },
+      {
+        "title": "Чат на микросервисах NATS",
+        "description": "Обмен сообщениями в реальном времени на Node.js, React.js и NATS, Docker и кэш в Redis."
+      },
+      {
+        "title": "Rust REST API",
+        "description": "Сервис на Actix-web с JWT-аутентификацией, полным CRUD и интеграцией с PostgreSQL."
+      },
+      {
+        "title": "Крестики-нолики онлайн",
+        "description": "Онлайн-игра на React.js и TypeScript: игровая логика, определение победителя и очерёдность ходов в адаптивном интерфейсе."
+      },
+      {
+        "title": "Telegram-бот для изображений",
+        "description": "Бот на NestJS, который обрабатывает команды с изображениями через Telegram Bot API, с модульной архитектурой."
+      },
+      {
+        "title": "Трекер расходов",
+        "description": "Full-stack приложение: фронтенд на React.js, бэкенд на Express.js, JWT-аутентификация и MongoDB."
+      },
+      {
+        "title": "Сайт-портфолио",
+        "description": "Адаптивный сайт на HTML, CSS, JavaScript, Sass и Pug со сборкой через Vite, Webpack и Gulp."
+      }
+    ],
+    "more": "Ещё на GitHub"
+  },
+  "contact": {
+    "together": "Давайте создадим что-нибудь вместе.",
+    "location": "Ургенч, Узбекистан",
+    "send": "Отправить сообщение",
+    "name": "Имя",
+    "email": "Email",
+    "message": "Сообщение",
+    "sent": "Черновик письма готов.",
+    "available": "Открыт к предложениям",
+    "emailSubject": "Сообщение с портфолио: {name}"
+  },
+  "footer": {
+    "footer": "© 2026 Obiljon Rakhimov"
+  },
+  "theme": {
+    "light": "Светлая",
+    "dark": "Тёмная",
+    "system": "Системная",
+    "toggle": "Тема: {mode}. Нажмите, чтобы изменить."
+  },
+  "language": {
+    "ariaLanguage": "Выбрать язык"
+  },
+  "common": {
+    "brandAria": "Главная — Obiljon Rakhimov",
+    "portrait": "Фото автора",
+    "codeFile": "obiljon.ts",
+    "codeName": "Obiljon Rakhimov",
+    "codeRole": "Full-Stack разработчик",
+    "codeLocation": "Ургенч, Узбекистан",
+    "codeFocus": "ИИ-приложения, микросервисы",
+    "codeStack": [
+      "TypeScript",
+      "Rust",
+      "Node.js"
+    ],
+    "sections": {
+      "profile": "01 / ОБО МНЕ",
+      "toolkit": "02 / ИНСТРУМЕНТЫ",
+      "work": "03 / ИЗБРАННЫЕ ПРОЕКТЫ",
+      "hello": "04 / КОНТАКТЫ"
+    },
+    "emailLabel": "почта",
+    "linkedinLabel": "linkedin",
+    "githubLabel": "github",
+    "locationLabel": "место",
+    "backToTop": "Наверх",
+    "ticker": [
+      "TypeScript",
+      "Rust",
+      "React.js",
+      "Next.js",
+      "NestJS",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "NATS",
+      "TypeScript",
+      "Rust",
+      "React.js",
+      "Next.js",
+      "NestJS",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "NATS"
+    ],
+    "close": "Закрыть",
+    "brand": "~/obiljon"
+  }
+}
